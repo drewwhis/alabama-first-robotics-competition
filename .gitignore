@@ -1,0 +1,10 @@
+*.DS_Store*
+
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.tiff
+
+# Ignore the email template file.
+template.md
